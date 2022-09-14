@@ -9,7 +9,6 @@ except ImportError:
 try:
     import pygame
     import sys
-    import pygame
     import random
     import time
     from pygame.locals import *
