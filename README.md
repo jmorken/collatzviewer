@@ -2,7 +2,9 @@
 
 20220913 version 1.0 released
 
+
 CUDA GPU recommended
+
 
 arrowkeys: pan/scroll image
 
@@ -11,6 +13,8 @@ left mouse button: increment collatz n
 right mouse button: decrement collatz n
 
 mousewheel scroll: zoom image in/out
+
+
 
 
 future improvements:
