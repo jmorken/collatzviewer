@@ -19,4 +19,3 @@ check collatz values for black pixels to add colour or transparency etc
 render higher resolution images when not pan/scroll/zooming
 add button to save image with optional text overlay
 
-
