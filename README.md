@@ -35,7 +35,7 @@ render higher resolution images when not pan/scroll/zooming
 
 add button to save image with optional text overlay
 
-
+add gui to input collatz n value, x y and zoom, resolution etc
 
 todo:
 
