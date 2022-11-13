@@ -2,13 +2,19 @@
 
 20220913 version 1.0 released
 
+
+
 Requirements:
 
 CUDA GPU recommended
 
-install pytorch with cuda: https://pytorch.org/features/
+pytorch: https://pytorch.org/features/
 
-ie: pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu117
+install pytorch with cuda: pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu117
+
+or
+
+install pytorch for cpu: pip3 install torch torchvision torchaudio
 
 
 
