@@ -2,8 +2,14 @@
 
 20220913 version 1.0 released
 
+Requirements:
 
 CUDA GPU recommended
+
+install pytorch with cuda: https://pytorch.org/features/
+
+ie: pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu117
+
 
 
 arrowkeys: pan/scroll image
