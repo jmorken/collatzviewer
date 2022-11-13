@@ -18,7 +18,7 @@ or
 
 install pytorch for cpu: pip3 install torch torchvision torchaudio
 
-
+install pygame: pip install pygame
 
 arrowkeys: pan/scroll image
 
