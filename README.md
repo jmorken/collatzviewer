@@ -12,6 +12,8 @@ pytorch: https://pytorch.org/features/
 
 install pytorch with cuda: pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu117
 
+(2.3GB download, Nvidia Cuda toolkit not required)
+
 or
 
 install pytorch for cpu: pip3 install torch torchvision torchaudio
