@@ -6,6 +6,7 @@ import time
 from PIL import Image
 from PIL import ImageDraw
 
+torch.set_default_dtype(torch.float64)
 
 def collatzAlgorithmSimple(a):
 	k=1
