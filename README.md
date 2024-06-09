@@ -62,13 +62,15 @@ record and upload to youtube, link to video
 
 
 
-Conjecture: The Collatz Conjecture remains true for any positive real numbers a and b such that:
+The Collatz Conjecture remains true for any positive real numbers a and b such that:
 
   (1 - 1/A025586(n)) < a < (1 + 1/A025586(n)).
   
   (1 - 1/(A025586(n) * 2)) < b < (1 + 1/(A025586(n) * 2)).
   
-  Replace 3n + 1 with Round((3n + 1) * a).
+  Replace 3x + 1 with Round((3x + 1) * a).
   
-  Replace n/2 with Round((n/2) * b).
+  Replace x/2 with Round((x/2) * b).
+
+  A025586(n) is reached by the 3x+1 step, A025586(n)/2 is the max value for the x/2 step.
   
