@@ -62,6 +62,9 @@ record and upload to youtube, link to video
 
 
 
+
+notes:
+
 The Collatz Conjecture remains true for any positive real numbers a and b such that:
 
   (1 - 1/A025586(n)) < a < (1 + 1/A025586(n)).
